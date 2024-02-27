@@ -1,0 +1,1 @@
+Aqui irian todas las librerias y una cantidad de archivos tan grande que GitHub no me deja subir la original, asi que subo esta carpeta solo con este archivo para cumplir con el requisito de estructura.
